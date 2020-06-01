@@ -11,4 +11,4 @@ Our aim is to help everyone willing to kick-start a career
 The HNG Internship gives room for effective 
 teamwork while interns work on real-life projects. You get the chance to
 collaborate with other creatives from different parts of the world, which prepares you for 
-future team collaborations outside the internship.
+future team collaborations outside the internship....
